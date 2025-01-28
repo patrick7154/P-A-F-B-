@@ -1863,8 +1863,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "credits":
         buttons = [[
-            InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about')
-           InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://t.me/MYD_BOY')
+            InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about'),
+            InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://t.me/requestmoviesgroup0')
        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
