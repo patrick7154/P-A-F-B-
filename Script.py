@@ -7,7 +7,7 @@ class script(object):
     
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
 
-    ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>\n‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Patrick_Bateman_r'>𝘗𝘢𝘵𝘳𝘪𝘤𝘬 𝘉𝘢𝘵𝘦𝘮𝘢𝘯</a>\n‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>\n‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>\n‣ ʜᴏsᴛᴇᴅ ᴏɴ : <a href='https://www.heroku.com/'>ʜᴇʀᴏᴋᴜ</a>\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ4.2 [sᴛᴀʙʟᴇ]</b>"""
+    ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>\n‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Patrick_Bateman_r'>𝘗𝘢𝘵𝘳𝘪𝘤𝘬 𝘉𝘢𝘵𝘦𝘮𝘢𝘯</a>\n‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>\n‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>\n‣ ʜᴏsᴛᴇᴅ ᴏɴ : <a href='https://www.heroku.com/'>ʜᴇʀᴏᴋᴜ</a>\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ4.2 [sᴛᴀʙʟᴇ]</b>"""
     
     CHANNELS = """
 <b>⚡ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs ɪɴғᴏ ⚡ 
