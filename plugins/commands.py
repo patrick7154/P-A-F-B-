@@ -64,7 +64,7 @@ async def start(client, message):
             gtxt = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 👋"
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 👋"
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFmWYEzJKKhyH260Gv-bWuulepI4C5AAJBAANY7ZwxjX8c_ojKghIeBA") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAEEOZ1nlgwAAccgzSaRe9QFHcqHG6l3Mg8AAqsBAAIQGm0ieL6-kcxUbMceBA") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -125,7 +125,7 @@ async def start(client, message):
             gtxt = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 👋"
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 👋"
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFmWYEzJKKhyH260Gv-bWuulepI4C5AAJBAANY7ZwxjX8c_ojKghIeBA") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAEEOZ1nlgwAAccgzSaRe9QFHcqHG6l3Mg8AAqsBAAIQGm0ieL6-kcxUbMceBA") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
