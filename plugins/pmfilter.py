@@ -1849,6 +1849,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• ꜱᴛᴀᴛꜱ •', callback_data='stats'),
         ], [
             InlineKeyboardButton('🛰️ ʀᴇɴᴅᴇʀɪɴɢ ꜱᴛᴀᴛᴜꜱ ☁️',callback_data='rendr'),
+            InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ',callback_data='https://t.me/Patrick_Botz')
         ], [
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ᴛᴏ ʜᴏᴍᴇ ⇋', callback_data='start'),
         ]]
