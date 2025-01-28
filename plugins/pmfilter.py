@@ -1861,10 +1861,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "rendr":
         await query.answer("⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ4.2 [sᴛᴀʙʟᴇ] """, show_alert=True)
 
+    elif query.data == "source":
+        buttons = [[
+            InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='credits'),
+            
     elif query.data == "credits":
         buttons = [[
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about'),
-            InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://t.me/requestmoviesgroup0')
+            InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', callback_data='source')
        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
