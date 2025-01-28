@@ -1849,7 +1849,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• ꜱᴛᴀᴛꜱ •', callback_data='stats'),
         ], [
             InlineKeyboardButton('🛰️ ʀᴇɴᴅᴇʀɪɴɢ ꜱᴛᴀᴛᴜꜱ ☁️',callback_data='rendr'),
-            InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ',callback_data='https://t.me/Patrick_Botz')
         ], [
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ᴛᴏ ʜᴏᴍᴇ ⇋', callback_data='start'),
         ]]
@@ -1865,7 +1864,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "credits":
         buttons = [[
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about')
-        ]]
+           InlineKeyboardButton('💌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://t.me/MYD_BOY')
+       ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.CREDITS_TXT,
