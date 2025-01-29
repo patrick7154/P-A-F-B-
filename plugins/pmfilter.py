@@ -164,13 +164,13 @@ async def next_page(bot, query):
         )
         btn.insert(0, 
             [
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇ", callback_data=f"languages#{key}"),
-                InlineKeyboardButton("ꜱᴇᴀsᴏɴ",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs✨", callback_data=f"episodes#{key}"),
+                InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇ🔊", callback_data=f"languages#{key}"),
+                InlineKeyboardButton("ꜱᴇᴀsᴏɴ🌟",  callback_data=f"seasons#{key}")
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("♨️ ꜱᴇɴᴅ ᴀʟʟ ꜰɪʟᴇꜱ ♨️", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("ꜱᴇɴᴅ ᴀʟʟ ꜰɪʟᴇꜱ📤", callback_data=f"sendfiles#{key}")
         ])
 
     else:
@@ -182,13 +182,13 @@ async def next_page(bot, query):
         )
         btn.insert(0, 
             [
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇ", callback_data=f"languages#{key}"),
-                InlineKeyboardButton("ꜱᴇᴀsᴏɴ",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs✨", callback_data=f"episodes#{key}"),
+                InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇ🔊", callback_data=f"languages#{key}"),
+                InlineKeyboardButton("ꜱᴇᴀsᴏɴ🌟",  callback_data=f"seasons#{key}")
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("♨️ ꜱᴇɴᴅ ᴀʟʟ ꜰɪʟᴇꜱ ♨️", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("ꜱᴇɴᴅ ᴀʟʟ ꜰɪʟᴇꜱ📤", callback_data=f"sendfiles#{key}")
         ])
 
     try:
