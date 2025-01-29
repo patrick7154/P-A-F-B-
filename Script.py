@@ -247,24 +247,19 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="https://t.me/Patrick_Botz">{file_name}</a></i>\n\n"""
+    CAPTION = """📂 <i><a href="https://t.me/Avengers_Alliance">{file_name}</a></i>\n\n""" 
 
-  IMDB_TEMPLATE_TXT = """<b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
+    IMDB_TEMPLATE_TXT = """<b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
-BOT BY : @Patrick_Bateman_r
+🧿 {title}</b>
 
-⏰ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+<b>⭐ {rating} | ⏰ {runtime} Minutes
+📆 {release_date}
+🕵️ {director}
+●  {languages}
+●  {genres}
 
-💖 Requested by : {message.from_user.mention}</b>"""
-    
+💗 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : {message.chat.title}</b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
