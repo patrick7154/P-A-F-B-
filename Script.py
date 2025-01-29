@@ -249,10 +249,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
     CAPTION = """ 📂 <i><a href="https://t.me/Patrick_Botz">{file_name}</a></i>\n\n"""
 
-  IMDB_TEMPLATE_TXT = """
-<b>Query: {qurey}
-
-IMDb Data:
+  IMDB_TEMPLATE_TXT = """<b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
