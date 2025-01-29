@@ -235,19 +235,19 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 ❤️‍🩹 <u>ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ</u>
 
 • ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href="https://t.me/Patrick_Bateman_r">Pᴀᴛʀɪᴄᴋ Bᴀᴛᴇᴍᴀɴ </a>
-• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href="https://t.me/MYD_BOY">Jᴏᴇʟ ᠰ TɢX</a>
-• sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/MYD_BOY">LazyDeveloper</a>
-• sᴛʀᴇᴀᴍ ᴡᴇʙꜱɪᴛᴇ : <a href="https://t.me/MYD_BOY">Bɪɪsᴀʟ</a>
-• ᴘʀᴇᴍɪᴜᴍ ᴄᴏᴅᴇꜱ : <a href="https://t.me/MYD_BOY">Rɪꜱʜɪᴋᴇꜱʜ</a>
-• ᴡᴇʟᴄᴏᴍᴇ ᴀɴɪᴍᴀᴛɪᴏɴ : <a href="https://t.me/MYD_BOY">𝑿𝒂𝒗𝒊𝒆𝒓</a>
-• ꜱᴛʀᴇᴀᴍ ꜱʜᴏʀᴛʟɪɴᴋ : <a href="https://t.me/MYD_BOY">⚝𝗠𝗿.𝗦𝗣𝗜𝗗𝗬⚝</a>
+• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href="https://t.me/">Jᴏᴇʟ ᠰ TɢX</a>
+• sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/">LazyDeveloper</a>
+• sᴛʀᴇᴀᴍ ᴡᴇʙꜱɪᴛᴇ : <a href="https://t.me/">Bɪɪsᴀʟ</a>
+• ᴘʀᴇᴍɪᴜᴍ ᴄᴏᴅᴇꜱ : <a href="https://t.me/">Rɪꜱʜɪᴋᴇꜱʜ</a>
+• ᴡᴇʟᴄᴏᴍᴇ ᴀɴɪᴍᴀᴛɪᴏɴ : <a href="https://t.me/">𝑿𝒂𝒗𝒊𝒆𝒓</a>
+• ꜱᴛʀᴇᴀᴍ ꜱʜᴏʀᴛʟɪɴᴋ : <a href="https://t.me/">⚝𝗠𝗿.𝗦𝗣𝗜𝗗𝗬⚝</a>
 
 ɪ ᴀᴍ ꜱᴏʀʀʏ ɪꜰ ɪ ꜰᴏʀɢᴏᴛ ꜱᴏᴍᴇᴏɴᴇ 🫂
 ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ᴛʜɪꜱ ᴀᴍᴀᴢɪɴɢ ʀᴏʟʟᴇʀ ᴄᴏᴀꜱᴛᴇʀ ᴊᴏᴜʀɴᴇʏ 🚀</b>
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """📂 <i><a href="https://t.me/Avengers_Alliance">{file_name}</a></i>\n\n""" 
+    CAPTION = """📂 <i><a href="https://t.me/Patrick_Botz">{file_name}</a></i>\n\n""" 
 
     IMDB_TEMPLATE_TXT = """<b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
@@ -261,6 +261,7 @@ IMDb Data:
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
+
 📖 {plot}
 
 ⏰ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
