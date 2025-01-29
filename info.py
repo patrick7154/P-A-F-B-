@@ -122,9 +122,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "".format(FQDN)
+    URL = "https://wee-kaile-flashpoint-8310314b.koyeb.app/".format(FQDN)
 else:
-    URL = "".format(FQDN)
+    URL = "https://wee-kaile-flashpoint-8310314b.koyeb.app/".format(FQDN)
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002001547224'))
