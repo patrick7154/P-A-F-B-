@@ -277,7 +277,7 @@ BOT BY : @Patrick_Bateman_r
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ: <a href='https://t.me/Patrick_Botz'>Pᴀᴛʀɪᴄᴋ Bᴏᴛᴢ</a>
+Bʏ: <a href='https://t.me/Patrick_Botz'>Pᴀᴛʀɪᴄᴋ Bᴏᴛᴢ</a></b>"""
 
     LOGO = """
 
