@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/patrick7154/Patrick-Auto-Filter-Bot-.git",
-    "repository": "https://github.com/patrick7154/Patrick-Auto-Filter-Bot-.git",
+    "website": "https://github.com/patrick7154/Patrick-Auto-Filter-Bot.git",
+    "repository": "https://github.com/patrick7154/Patrick-Auto-Filter-Bot.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
